@@ -1,4 +1,5 @@
 aw8697.ko
+aw_haptic_hv_v1_5.ko
 haptic_feedback.ko
 haptic.ko
 horae_shell_temp.ko

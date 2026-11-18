@@ -1,4 +1,5 @@
 aw8697.ko
+aw_haptic_hv_v1_5.ko
 boot_mode.ko
 buildvariant.ko
 haptic_feedback.ko
